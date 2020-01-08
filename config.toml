@@ -1,0 +1,4 @@
+languageCode = "en-us"
+title = "Test"
+
+staticDir = ["static", "assets"]
